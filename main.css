@@ -39,3 +39,77 @@ body {
     .large {
         font-size: 50px;
     }
+
+
+/* ######################################## */
+
+    /* .container {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column-reverse;
+    }
+
+    .box {
+        color:white;
+        font-size: 100px;
+        font-family: 'Montserrat Alternates', sans-serif;
+        text-align: center;
+        padding:15px;
+       flex: 1;
+        }
+
+.container {
+    display: flex;
+}
+
+
+.box2 {
+    flex: 2;
+} */
+
+
+.container {
+    display: flex;
+    background-color: tomato;
+    flex-direction: column;
+}
+.container > div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+/* .navbar { 
+
+} */
+
+
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  /* li a:hover {
+    background-color: #111;
+  } */ 
+
+
+
