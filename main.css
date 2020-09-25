@@ -1,0 +1,154 @@
+h1 {
+    color: rgb(126, 101, 33)
+}
+
+h2 {
+    color: rgba(60, 129, 69, 0.877)
+}
+
+h3 {
+    color: rgb(160, 146, 71)
+}
+
+* {
+    background-color: rgb(red, rgb(153, 142, 93), blue);
+}
+
+p{
+    margin: 50px;
+    border: rgb(90, 126, 36);
+    border-style: solid;
+    padding: 50px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+body {
+
+    background-image: url("images/lighteffectbackground.jpg");
+}
+
+
+#para1 {
+    color: rgb(138, 126, 21);
+    font-size: 40px;
+    }
+
+
+
+    .large {
+        font-size: 50px;
+    }
+
+
+/* ######################################## */
+
+    /* .container {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column-reverse;
+    }
+
+    .box {
+        color:white;
+        font-size: 100px;
+        font-family: 'Montserrat Alternates', sans-serif;
+        text-align: center;
+        padding:15px;
+       flex: 1;
+        }
+
+.container {
+    display: flex;
+}
+
+
+.box2 {
+    flex: 2;
+} */
+
+
+.container {
+    display: flex;
+    background-color: rgb(153, 142, 40);
+    flex-direction: column;
+}
+.container > div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+/* .navbar { 
+
+} */
+
+
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  /* li a:hover { 
+    background-color: #111;
+  } */ 
+
+/* 
+nav {
+    width: 200%;
+    height: 250px;
+    background: black;
+    line-height: 180px;
+    font-size: large;
+}
+
+nav ul {
+    float: right;
+    margin-right: 130px;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-black;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: azure;
+    padding: 30px;
+}
+
+nav ul li a:hover {
+    color: rgb(24, 73, 24);
+}
+
+a {
+    color: rgb(216, 132, 53);
+}
+
+.navbar a {
+    font-size: large;
+} */
+
+
+.navbar a {
+    font-size: large;
+}
