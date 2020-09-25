@@ -1,13 +1,13 @@
 h1 {
-    color: green
+    color: rgb(126, 101, 33)
 }
 
 h2 {
-    color: blue
+    color: rgba(60, 129, 69, 0.877)
 }
 
 h3 {
-    color: green
+    color: rgb(160, 146, 71)
 }
 
 * {
@@ -16,7 +16,7 @@ h3 {
 
 p{
     margin: 50px;
-    border: greenyellow;
+    border: rgb(90, 126, 36);
     border-style: solid;
     padding: 50px;
     text-align: center;
@@ -70,7 +70,7 @@ body {
 
 .container {
     display: flex;
-    background-color: tomato;
+    background-color: rgb(153, 142, 40);
     flex-direction: column;
 }
 .container > div {
